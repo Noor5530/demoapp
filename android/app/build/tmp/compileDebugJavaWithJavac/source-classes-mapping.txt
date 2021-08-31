@@ -1,0 +1,14 @@
+com/dempapp/MainApplication.java
+ com.dempapp.MainApplication
+ com.dempapp.MainApplication$1
+com/dempapp/MainActivity.java
+ com.dempapp.MainActivity
+com/dempapp/ReactNativeFlipper.java
+ com.dempapp.ReactNativeFlipper
+ com.dempapp.ReactNativeFlipper$1
+ com.dempapp.ReactNativeFlipper$2
+ com.dempapp.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/dempapp/BuildConfig.java
+ com.dempapp.BuildConfig
